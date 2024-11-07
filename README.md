@@ -10,7 +10,7 @@ I am a Computer Science graduate from UCV, where I teach courses on front-end de
   - React Native
   - Unity
 - 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
+- ✔ Ask me about anything, I am happy to help 😉<br>
 - Outside tech, ⚽ I love playing football, 🎮 playing videogames, 🎵 listening to music and ⚛︎ watching science documentaries
 - 📫 Reach out to me at: <a href="cpservice98@gmail.com">cpservice98@gmail.com</a>
 
